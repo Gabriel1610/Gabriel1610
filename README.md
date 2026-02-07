@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hola, soy Gabriel 👋
 
-<!--
-**Gabriel1610/Gabriel1610** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Desarrollador Jr | FullStack | Python (apps de escritorio) | SQL (MySQL / SQL Server)  
+📍 Resistencia, Chaco, Argentina · 💼 Buscando primera oportunidad Trainee/Jr
 
-Here are some ideas to get you started:
+## Perfil
+Desarrollo proyectos personales/académicos con foco en CRUD, validaciones y estructura de aplicaciones.  
+Trabajo con Python y bases de datos, usando Git/GitHub para control de versiones. Me interesa sumar en desarrollo, mantenimiento y mejora continua.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tecnologías
+Python · Flet · SQL (MySQL / SQL Server) · Git/GitHub · Java (básico)
+
+## Proyectos
+- **El Prode del Rey** — App con CRUD + validaciones (Python + MySQL)  
+  Repo: https://github.com/Gabriel1610/F-tbol
+- **Librería CEAU**
+  Repo: https://github.com/Gabriel1610/Libreria
+
+## Contacto
+LinkedIn: https://www.linkedin.com/in/gabriel-alejandro-paul/  
+Email: gabrielydeindependiente@gmail.com
