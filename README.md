@@ -12,7 +12,7 @@ Python · Flet · SQL (MySQL / SQL Server) · Git/GitHub · Java (básico)
 
 ## Proyectos
 - **El Prode del Rey** — App con CRUD + validaciones (Python + MySQL)  
-  Repo: https://github.com/Gabriel1610/F-tbol
+  Repo: [https://github.com/Gabriel1610/F-tbol](https://github.com/Gabriel1610/Futbol)
 - **Librería CEAU**
   Repo: https://github.com/Gabriel1610/Libreria
 
