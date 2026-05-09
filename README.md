@@ -15,7 +15,9 @@ Python · Flet · SQL (MySQL / SQL Server) · Git/GitHub · Java (básico)
   Repo: [https://github.com/Gabriel1610/F-tbol](https://github.com/Gabriel1610/Futbol)
 - **Librería CEAU**
   Repo: [https://github.com/Gabriel1610/Libreria](https://github.com/Gabriel1610/Libreria.git)
+  * **Fuego & Fierro** — Sistema POS y gestión minorista con validación transaccional y procesos asíncronos (Python + Flet + SQLite)
+  Repo: [https://github.com/Gabriel1610/Fuego-y-Fierro](https://github.com/Gabriel1610/Carnicer-a)
 
 ## Contacto
-LinkedIn: https://www.linkedin.com/in/gabriel-alejandro-paul/  
+LinkedIn: www.linkedin.com/in/gabrielpaul-python
 Email: gabrielydeindependiente@gmail.com
