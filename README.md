@@ -20,4 +20,5 @@ Python · Flet · SQL (MySQL / SQL Server) · Git/GitHub · Java (básico)
 
 ## Contacto
 LinkedIn: www.linkedin.com/in/gabrielpaul-python
+
 Email: gabrielydeindependiente@gmail.com
